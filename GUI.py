@@ -1,6 +1,6 @@
 # Front end Graphical User Interface for Readit application.
 # Version beta 0.2
-# Authors: Josh Duran, Kenny Ngo, Alex Debont, Chase Pan
+# Authors: Josh Durana, Kenny Ngo, Alex Debont, Chase Pan
 # Created for HackUTD 2019
 
 from tkinter import *
