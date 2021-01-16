@@ -2,7 +2,7 @@
 # Readit will prompt the user for a link to a reddit post, then use text to speech software to
 # read the reddit post and the top 5 comments aloud to the user
 # Uses gtts, playsound and praw external libraries. Must install using pip install (or python -m pip install)
-# Authors: Josh Duran, Kenny Ngo, Alex Debont, Chase Pan
+# Authors: Josh Durana, Kenny Ngo, Alex Debont, Chase Pan
 # Created for HackUTD 2019
 
 import praw
